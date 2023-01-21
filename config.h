@@ -8,7 +8,7 @@
 #define GETTEXT_PACKAGE "reclamation"
 
 /* Define to 1 if you have the `bind_textdomain_codeset' function. */
-#define HAVE_BIND_TEXTDOMAIN_CODESET 
+#define HAVE_BIND_TEXTDOMAIN_CODESET 1
 
 /* Define to 1 if you have the Mac OS X function CFLocaleCopyCurrent in the
    CoreFoundation framework. */
